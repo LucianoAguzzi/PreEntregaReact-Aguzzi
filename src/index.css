@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Item-List-Container {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 150%;
+  text-align: center;
+}
+
+.container-fluid {
+  background-color: black;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link-active {
+  color: white;
+}
+
+.home {
+  color: white;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  font-style: oblique;
+  color: white;
+}
